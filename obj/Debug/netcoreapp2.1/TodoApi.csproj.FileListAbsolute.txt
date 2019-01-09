@@ -1,0 +1,14 @@
+/Users/harold/Downloads/video/TodoApi/bin/Debug/netcoreapp2.1/TodoApi.deps.json
+/Users/harold/Downloads/video/TodoApi/bin/Debug/netcoreapp2.1/TodoApi.runtimeconfig.json
+/Users/harold/Downloads/video/TodoApi/bin/Debug/netcoreapp2.1/TodoApi.runtimeconfig.dev.json
+/Users/harold/Downloads/video/TodoApi/bin/Debug/netcoreapp2.1/TodoApi.dll
+/Users/harold/Downloads/video/TodoApi/bin/Debug/netcoreapp2.1/TodoApi.pdb
+/Users/harold/Downloads/video/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.csprojAssemblyReference.cache
+/Users/harold/Downloads/video/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.csproj.CoreCompileInputs.cache
+/Users/harold/Downloads/video/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.RazorAssemblyInfo.cache
+/Users/harold/Downloads/video/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.RazorAssemblyInfo.cs
+/Users/harold/Downloads/video/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.AssemblyInfoInputs.cache
+/Users/harold/Downloads/video/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.AssemblyInfo.cs
+/Users/harold/Downloads/video/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.RazorTargetAssemblyInfo.cache
+/Users/harold/Downloads/video/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.dll
+/Users/harold/Downloads/video/TodoApi/obj/Debug/netcoreapp2.1/TodoApi.pdb
